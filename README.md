@@ -6,7 +6,8 @@ Project used fictional survey data from Tesco and clustered customers based on a
 Clusters were then analysed to discover Customer Lifetime Value and Total Segment Value.
 
 Key Findings:
-1.Tesco's should split up Marketing efforts into 4 different campaigns that target similar customer segmentations and offer discounts / offers based on segment priorities.
+
+Tesco's should split up Marketing efforts into 4 different campaigns that target similar customer segmentations and offer discounts / offers based on segment priorities.
   
   a) Cluster 1 = Prioritise Price
   
